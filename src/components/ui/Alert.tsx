@@ -1,5 +1,5 @@
 import { AlertCircle } from "../icons/AlertCircle";
-import Check from "../icons/Check";
+import { Check } from "../icons/Check";
 
 interface AlertPropTypes {
   type: "success" | "error";
